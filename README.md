@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express" />
   
-  <h3>Currently working on:</h3>
-  <p><a href="https://github.com/viniciustt2/cluster-node">cluster-node</a> — High performance Node.js Cluster implementation</p>
 </div>
 
 ---
