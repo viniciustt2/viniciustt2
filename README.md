@@ -17,9 +17,6 @@
 - **Frontend:** React, Angular, CSS
 - **Others:** Git, Docker, Linux
 
-### 📊 My Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciustt2&show_icons=true&theme=tokyonight)
 
 ---
 
