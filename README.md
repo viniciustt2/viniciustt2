@@ -16,7 +16,7 @@
 ### 🚀 Technologies & Tools
 
 - **Backend:** Node.js, TypeScript, Express, NestJS
-- **Frontend:** React, Angular, CSS
+- **Frontend:** React, Angular
 - **Others:** Git, Docker, Linux
 
 
